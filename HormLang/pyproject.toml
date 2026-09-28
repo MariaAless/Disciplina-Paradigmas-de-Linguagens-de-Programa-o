@@ -1,0 +1,9 @@
+[project]
+name = "hormlang"
+version = "0.1.0"
+description = "DSL para simulação de dinâmicas hormonais em Python"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "lark==1.3.1",
+]
